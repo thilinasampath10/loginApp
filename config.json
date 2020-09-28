@@ -1,0 +1,4 @@
+{
+  "connectionString": "mongodb://localhost/loginData",
+  "secret": "thilinag"
+}

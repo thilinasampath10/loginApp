@@ -1,0 +1,6 @@
+root = true
+
+
+[*]
+connectionString = mongodb://localhost/node-mongo-registration-login-api
+secret = thilinag
